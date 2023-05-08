@@ -33,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 REACT TODO <a name="about-project"></a>
 
-**[your_project__name]** is a...
+The **REACT TODO** project is a web application that enables users to create and manage a list of tasks or to-dos. The application is built using the React JavaScript library, which allows for fast and efficient rendering of user interfaces. The user interface for the application is designed to be clean and intuitive, with a simple list-based layout that allows users to quickly add new tasks, mark tasks as complete, and delete completed tasks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -229,6 +229,4 @@ I would like to thank to my coding partners.
 
 This project is [MIT](./LICENSE) licensed.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
